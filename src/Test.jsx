@@ -24,7 +24,7 @@ export default function Test() {
     }
 
     const handlerOnClick = () => (
-        console.log('123'),
+        console.log('123aaaaaaa'),
         setCount(count + 1)
     );
     return (
