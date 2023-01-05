@@ -20,7 +20,7 @@ export default function Test() {
     }
 
     function handlerOnClick1() {
-        console.log('123');
+        console.log('12311111111');
     }
 
     const handlerOnClick = () => (
